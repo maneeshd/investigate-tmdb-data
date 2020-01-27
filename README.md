@@ -4,6 +4,9 @@
 
 -----
 
+### Project Report
+
+Report can be viewed at https://maneeshd.github.io/investigate-tmdb-data/.
 
 ### Dataset: TMDb movie data (cleaned from original data on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata))
 
@@ -34,7 +37,3 @@ This project requires **Python** and the following Python libraries installed:
 ```
 jupyter notebook investigation_of_tmdb_dataset.ipynb
 ```
-
-### Project Report
-
-Report can be viewed at https://maneeshd.github.io/investigate-tmdb-data/.
